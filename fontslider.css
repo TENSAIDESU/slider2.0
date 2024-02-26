@@ -1,0 +1,37 @@
+
+@font-face{
+        font-family: "Yeseva One", serif;
+        font-weight: 400;
+        font-style: normal;
+        src: url(https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&family=Montserrat:wght@100&family=Playpen+Sans:wght@200&family=Space+Grotesk:wght@400;500;600&family=Tillana&family=Yeseva+One&family=Ysabeau+Infant:wght@200&display=swap);
+      }
+    
+.links{
+    font-size: 14px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.3);
+}
+h1{
+    font-size: 27px;
+    line-height: 37px;
+    color: #E3B873;
+}
+.txt{
+    color: #fff;
+    font-size: 14px;
+}
+h2{
+    font-size: 18px;
+line-height: 25px;
+text-transform: uppercase;
+color: #E3B873;
+}
+p{
+    color: #fff;
+    font-size: 14px;
+}
+.nonetxt{
+    color:black;
+    border-bottom: 2px solid #E3B873;
+}
